@@ -1,6 +1,6 @@
 # React Task Tracker
 
-This is a simple React.js application which tracks a list of task entered by the user, these tasks remane in the json server database which act as a server side database. This project uses React.js class components and passing props through the components as this is a smaller application.
+This is a simple React.js application which tracks a list of task entered by the user, these tasks remain in the json server database which act as a server side database. This project uses React.js class components and passing props through the components as this is a smaller application.
 
 ## Improvements and New Features
 
